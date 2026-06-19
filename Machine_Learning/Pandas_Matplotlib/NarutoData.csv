@@ -1,0 +1,101 @@
+No,Name,Village,Clan,Power1,Power2,SpecialPower,TailedBeast,Power,Intelligence,Legendary
+1,Naruto Uzumaki,Leaf,Uzumaki,Shadow Clone Jutsu,Rasengan,Sage Mode,Kurama,9.9,3,1
+2,Sasuke Uchiha,Leaf,Uchiha,Chidori,Fire Style,Rinnegan,None,9.8,5,1
+3,Sakura Haruno,Leaf,Haruno,Medical Ninjutsu,Super Strength,Byakugou Seal,None,8.5,4,0
+4,Kakashi Hatake,Leaf,Hatake,Sharingan,Lightning Blade,Kamui,None,9.0,5,1
+5,Itachi Uchiha,Leaf,Uchiha,Genjutsu,Fire Style,Tsukuyomi,None,9.5,5,1
+6,Gaara,Sand,None,Sand Control,Shield Sand,Shukaku Power,Shukaku,9.0,4,1
+7,Rock Lee,Leaf,None,Taijutsu,Primary Lotus,Eight Gates,None,8.8,3,0
+8,Neji Hyuga,Leaf,Hyuga,Byakugan,Gentle Fist,Rotation,None,8.7,4,0
+9,Hinata Hyuga,Leaf,Hyuga,Byakugan,Gentle Step,Twin Lion Fists,None,8.0,4,0
+10,Shikamaru Nara,Leaf,Nara,Shadow Possession,Shadow Stitching,Strategy,None,7.5,5,0
+11,Choji Akimichi,Leaf,Akimichi,Expansion Jutsu,Human Boulder,Butterfly Mode,None,7.3,3,0
+12,Ino Yamanaka,Leaf,Yamanaka,Mind Transfer,Sensory Jutsu,Medical Support,None,7.0,4,0
+13,Kiba Inuzuka,Leaf,Inuzuka,Fang Over Fang,Beast Mimicry,Two Headed Wolf,None,7.1,3,0
+14,Shino Aburame,Leaf,Aburame,Insect Control,Chakra Drain,Parasite Bugs,None,7.6,4,0
+15,Tenten,Leaf,None,Weapon Summon,Scroll Weapons,Tool Mastery,None,6.8,3,0
+16,Minato Namikaze,Leaf,Namikaze,Flying Thunder God,Rasengan,Yellow Flash,None,9.7,5,1
+17,Kushina Uzumaki,Leaf,Uzumaki,Chakra Chains,Sealing Jutsu,Nine Tails Host,Kurama,9.1,4,1
+18,Tsunade,Leaf,Senju,Medical Ninjutsu,Super Strength,Creation Rebirth,None,9.2,4,1
+19,Jiraiya,Leaf,None,Summoning Jutsu,Rasengan,Sage Mode,None,9.3,4,1
+20,Orochimaru,Sound,None,Snake Techniques,Edo Tensei,Body Transfer,None,9.4,5,1
+21,Kabuto Yakushi,Sound,None,Medical Ninjutsu,Snake Sage Mode,Regeneration,None,8.7,5,0
+22,Madara Uchiha,Leaf,Uchiha,Sharingan,Susanoo,Rinnegan,None,10.0,5,1
+23,Obito Uchiha,Leaf,Uchiha,Kamui,Sharingan,Ten Tails Mode,Ten Tails,9.9,4,1
+24,Nagato Uzumaki,Rain,Uzumaki,Rinnegan,Shinra Tensei,Six Paths,None,9.8,4,1
+25,Konan,Rain,None,Paper Jutsu,Paper Bombs,Paper Ocean,None,8.2,4,0
+26,Deidara,Stone,None,Explosion Style,Clay Birds,C0 Explosion,None,8.0,3,0
+27,Sasori,Sand,None,Puppet Mastery,Poison Blades,Hundred Puppets,None,8.3,4,0
+28,Kisame Hoshigaki,Mist,Hoshigaki,Water Style,Samehada Sword,Shark Mode,None,8.9,3,0
+29,Hidan,HotWater,None,Curse Ritual,Immortality,Blood Ritual,None,8.1,2,1
+30,Kakuzu,Waterfall,None,Earth Grudge Fear,Multiple Hearts,Element Masks,None,8.4,4,0
+31,Asuma Sarutobi,Leaf,Sarutobi,Wind Style,Chakra Blades,Burning Ash,None,8.0,4,0
+32,Kurenai Yuhi,Leaf,Yuhi,Genjutsu,Illusion Trees,Binding Illusion,None,7.9,4,0
+33,Yamato,Leaf,None,Wood Style,Wood Prison,Hashirama Cells,None,8.2,4,0
+34,Sai,Leaf,None,Ink Creatures,Ink Clone,Sealing Ink,None,7.6,4,0
+35,Killer Bee,Cloud,None,Lightning Style,Sword Style,Eight Tails Mode,Gyuki,9.5,3,1
+36,Fourth Raikage,Cloud,None,Lightning Armor,Lariat,Extreme Speed,None,9.3,4,1
+37,Mei Terumi,Mist,None,Lava Style,Boil Release,Acid Mist,None,8.7,4,1
+38,Onoki,Stone,None,Dust Release,Earth Style,Particle Style,None,9.2,5,1
+39,Zabuza Momochi,Mist,None,Water Dragon,Silent Killing,Demon Sword,None,8.1,3,0
+40,Haku,Mist,None,Ice Mirrors,Needle Senbon,Crystal Ice,None,8.0,4,0
+41,Shisui Uchiha,Leaf,Uchiha,Body Flicker,Sharingan,Kotoamatsukami,None,9.4,5,1
+42,Fugaku Uchiha,Leaf,Uchiha,Fire Style,Sharingan,Clan Leader,None,8.7,4,0
+43,Hashirama Senju,Leaf,Senju,Wood Style,Sage Mode,Forest Creation,None,10.0,5,1
+44,Tobirama Senju,Leaf,Senju,Water Style,Shadow Clone,Edo Tensei,None,9.5,5,1
+45,Hiruzen Sarutobi,Leaf,Sarutobi,All Nature,Summoning Monkey,Professor Shinobi,None,9.4,5,1
+46,Danzo Shimura,Leaf,None,Izanagi,Sharingan Arm,Root Control,None,8.9,4,1
+47,Rin Nohara,Leaf,None,Medical Ninjutsu,Healing Palm,Three Tails Host,Isobu,8.0,4,0
+48,Hanabi Hyuga,Leaf,Hyuga,Byakugan,Gentle Fist,Hyuga Prodigy,None,8.3,4,0
+49,Hiashi Hyuga,Leaf,Hyuga,Byakugan,Gentle Fist,Clan Leader,None,8.8,4,0
+50,Hizashi Hyuga,Leaf,Hyuga,Byakugan,Gentle Fist,Sacrifice Seal,None,8.6,4,0
+51,Karin,Sound,Uzumaki,Sensory Jutsu,Healing Bite,Uzumaki Vitality,None,7.8,4,0
+52,Jugo,Sound,None,Curse Transformation,Natural Energy,Berserk Mode,None,8.2,2,0
+53,Suigetsu Hozuki,Mist,Hozuki,Water Body,Sword Combat,Hydration Mode,None,8.1,3,0
+54,Guren,Sound,None,Crystal Style,Crystal Armor,Crystal Dragon,None,8.0,3,0
+55,Roshi,Stone,None,Lava Style,Four Tails Mode,Volcano Power,SonGoku,9.1,3,1
+56,Yugito Nii,Cloud,None,Fire Style,Two Tails Mode,Flame Cat,Matatabi,9.0,4,1
+57,Yagura Karatachi,Mist,None,Water Mirror,Three Tails Mode,Perfect Jinchuriki,Isobu,9.2,3,1
+58,Utakata,Mist,None,Bubble Style,Six Tails Mode,Bubble Dome,Saiken,8.9,4,1
+59,Fuu,Taki,None,Seven Tails Flight,Chakra Threads,Insect Wings,Chomei,8.8,3,1
+60,Han,Stone,None,Steam Release,Five Tails Mode,Boiler Power,Kokuo,9.0,3,1
+61,Might Guy,Leaf,None,Taijutsu,Dynamic Entry,Eight Gates,None,9.4,3,1
+62,Konohamaru Sarutobi,Leaf,Sarutobi,Rasengan,Shadow Clone,Monkey Summon,None,8.3,3,0
+63,Iruka Umino,Leaf,None,Barrier Jutsu,Teaching Skill,Academy Mentor,None,6.5,4,0
+64,Teuchi,Leaf,None,Ramen Master,Knife Skills,Ramen Legend,None,5.0,3,0
+65,Ayame,Leaf,None,Ramen Service,Customer Care,Ramen Expert,None,4.5,3,0
+66,Chiyo,Sand,None,Puppet Mastery,Healing Jutsu,White Puppets,None,8.2,4,0
+67,Kankuro,Sand,None,Puppet Mastery,Poison Blades,Black Ant Puppet,None,8.1,3,0
+68,Temari,Sand,None,Wind Scythe,Great Fan,Wind Tornado,None,8.4,4,0
+69,Baki,Sand,None,Sword Style,Wind Slash,Strategic Combat,None,7.8,4,0
+70,Pakura,Sand,None,Scorch Release,Heat Orbs,Desert Combat,None,8.0,3,0
+71,Shinki,Sand,None,Iron Sand,Magnet Style,Iron Defense,None,8.2,4,0
+72,Boruto Uzumaki,Leaf,Uzumaki,Rasengan,Shadow Clone,Karma,None,8.9,3,1
+73,Sarada Uchiha,Leaf,Uchiha,Sharingan,Fire Style,Chidori,None,8.7,4,0
+74,Mitsuki,Leaf,None,Snake Lightning,Stretch Limbs,Sage Mode,None,9.0,4,1
+75,Kawaki,Leaf,None,Karma Seal,Energy Blast,Isshiki Vessel,None,9.2,3,1
+76,Delta,Kara,None,Eye Lasers,Regeneration,Drone Control,None,8.8,3,1
+77,Boro,Kara,None,Virus Mist,Regeneration,Cult Power,None,8.6,3,1
+78,Code,Kara,None,Claw Marks,Teleport Claws,White Karma,None,9.1,4,1
+79,Amado,Kara,None,Scientific Tech,Cyborg Control,Strategic Genius,None,7.5,5,0
+80,Kashin Koji,Kara,None,Fire Style,Summoning Toad,Sage Mode,None,9.3,5,1
+81,Victor,Kara,None,Regeneration,Scientific Ninja Tool,Wealth Control,None,7.0,4,0
+82,Deepa,Kara,None,Carbon Armor,Crystal Bullets,Ultimate Defense,None,8.4,3,0
+83,Denki Kaminarimon,Leaf,None,Tech Skills,Lightning Tools,Scientific Genius,None,6.5,4,0
+84,Iwabe Yuino,Leaf,None,Earth Style,Staff Combat,Stone Walls,None,7.2,3,0
+85,Wasabi Izuno,Leaf,None,Cat Cloak,Speed Boost,Claw Combat,None,7.0,3,0
+86,Namida Suzumeno,Leaf,None,Sonic Cry,Water Style,Emotional Burst,None,6.8,3,0
+87,Sumire Kakei,Leaf,None,Nue Summon,Water Style,Dark Chakra,None,8.0,4,0
+88,Moegi Kazamatsuri,Leaf,None,Wood Style Potential,Team Leader,Jonin Skill,None,7.5,4,0
+89,Udon Ise,Leaf,None,Water Style,Staff Combat,Team Support,None,7.0,3,0
+90,Hoki Taketori,Leaf,None,Photographic Memory,Earth Style,Strategic Combat,None,7.4,5,0
+91,Renga Kokubo,Leaf,None,Wind Style,Kunai Combat,Team Support,None,6.8,3,0
+92,Hako Kuroi,Leaf,None,Genjutsu,Illusion Mist,Mind Control,None,7.2,4,0
+93,Enko Onikuma,Leaf,None,Fire Demon,Flame Burst,Curse Seal,None,7.6,3,0
+94,Shikadai Nara,Leaf,Nara,Shadow Possession,Wind Style,Strategic Mind,None,8.1,5,0
+95,Chocho Akimichi,Leaf,Akimichi,Expansion Jutsu,Butterfly Mode,Calorie Power,None,7.8,3,0
+96,Inojin Yamanaka,Leaf,Yamanaka,Ink Creatures,Mind Transfer,Art Style Jutsu,None,7.7,4,0
+97,Yodo,Sand,None,Sound Detection,Kunai Combat,Wind Sense,None,7.3,4,0
+98,Araya,Sand,None,Puppet Combat,Iron Sand Shield,Hidden Blade,None,7.5,3,0
+99,Kagura Karatachi,Mist,None,Sword Combat,Water Style,New Swordsman,None,7.9,4,0
+100,Chojuro,Mist,None,Sword Hiramekarei,Water Style,Mizukage Power,None,9.0,4,1
