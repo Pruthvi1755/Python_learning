@@ -27,4 +27,3 @@ def get_info(id: int):
 
     return {"message": "Todo not found"}
 
-@app.put("/todos/{id}")
