@@ -1,11 +1,11 @@
 from cal import calculate
 
 @calculate
-def meals(name, price, qty):
+def meals(name, qty):
     print("final bill : ")
 
-n = input(" enter the meal name: ")
-p = int(input(" price: "))
+n = int(input("items \n 1.dosa,\n 2. idle,\n 3.poliogre \nenter the meal no:"))
+
 q = int(input("qty: "))
 
-meals(n, p, q)
+meals(n, q)
