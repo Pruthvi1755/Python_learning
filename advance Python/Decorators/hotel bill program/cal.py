@@ -1,8 +1,8 @@
 def calculate(par):
-    def wrapper(price, qty):
-        par(price,qty)
+    def wrapper(name, price, qty):
+        par(name, price,qty)
 
         total = price*qty
-        print("Rs", total)
+        print(f'{name} --> Rs {total}')
 
     return  wrapper()
